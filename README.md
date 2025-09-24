@@ -42,7 +42,14 @@ If you use this code, please cite both the paper and this repository:
 <sup>1</sup>The COMFA-OA threshold is:
 
 <sup>2</sup>The constant indoor condition is defined as:
+a). For meteorological condition
 - Air temperature = 
 - Relative humidity =
 - Mean radiant temperature = 
-- 
+- Wind speed =
+b). For human parameters
+- Age (yr)=
+- Heigh (m)=
+- Weight (kg)=
+- Sex (male, female) =
+- Standard metabolism rate (METs, MET) =
