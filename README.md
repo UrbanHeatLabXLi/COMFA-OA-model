@@ -31,7 +31,7 @@ Li, X., Zhang, Y., Sang, H., Lee, C., Sullivan, W. C., Maddock, J., Li, D., & Br
   journal = {Building and Environment},
   year    = {2025},
   pages   = {113758},
-  doi     = {https://doi.org/10.1016/j.buildenv.2025.113758}
+  doi     = {https://doi.org/10.1016/j.buildenv.2025.113758
 }
 
 **🔧 Notes**
