@@ -40,6 +40,17 @@ If you use this code, please cite both the paper and this repository:
 **🔧 Notes**
 
 <sup>1</sup>The COMFA-OA threshold is:
+| Predicted thermal sensation | COMFA-OA (W/m²)   |
+|-----------------------------|-------------------|
+| -3 (Cold)                   | < -192            |
+| -2 (Cool)                   | -192 to -121      |
+| -1 (Slightly cool)          | -120 to -50       |
+| 0 (Neutral)                 | -49 to 22         |
+| 1 (Slightly warm)           | 23 to 93          |
+| 2 (Warm)                    | 94 to 165         |
+
+
+
 
 <sup>2</sup>The constant indoor condition is defined as:
 a). For meteorological condition
