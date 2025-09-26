@@ -49,11 +49,11 @@ Li, X., Zhang, Y., Sang, H., Lee, C., Sullivan, W. C., Maddock, J., Li, D., & Br
 
 
 <sup>2</sup>The constant indoor condition is defined as:
-a). For meteorological condition
+***a). For meteorological condition***
 - Air temperature = Mean Radiant Temperature
 - Relative humidity = 50%
 - Wind speed = 0.3 m/s (~0.5m/s at 10m)
-b). For human parameters
+***b). For human parameters***
 - Age (yr)= 65
 - Heigh (m)= 75kg
 - Weight (kg)= 1.75m
