@@ -2,7 +2,7 @@
 
 COMFA-OA is a thermal comfort estimation tool for older adult group. The output index calculate the thermal comfort level as **energy budget** in watt/m2, threshold can be find in following table<sup>1</sup>.
 
-A optional equavalent temperature output was provided representating the air temperature that reach the same energy budget at a constant meteorological condtion<sup>2</sup>. 
+A optional equavalent temperature output (CET, COMFA-OA equavalent temperature) was provided representating the air temperature that reach the same energy budget at a constant meteorological condtion<sup>2</sup>. 
 
 **About this repository**
 This repository provides the code implementation of the COMFA-OA (Outdoor Thermal Comfort Model for Older Adults), as described in the following paper:
