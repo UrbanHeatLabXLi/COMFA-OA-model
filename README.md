@@ -28,13 +28,13 @@ DOI: [Xiaoyu Li, Yue Zhang, Huiyan Sang, Chanam Lee, William C Sullivan, Jay E M
 
 
 **🔧 Citation**
-If you use this code, please cite both the paper and this repository:
-@article{A Novel Thermal Comfort Model for Older Adults–Development and Validation of the COMFA-OA Model,
-  title   = {COMFA-OA: A Thermal Comfort Model for Older Adults in Urban Environments},
-  author  = {Li, Xiaoyu and [co-authors]},
-  journal = {Building & Environment},
+@article{Li2025_COMFAOA,
+  title   = {A novel thermal comfort model for older adults–development and validation of the COMFA-OA model},
+  author  = {Li, Xiaoyu and Zhang, Y. and Sang, H. and Lee, C. and Sullivan, W. C. and Maddock, J. and Brown, R. D.},
+  journal = {Building and Environment},
   year    = {2025},
-  doi     = {DOI link pending}
+  pages   = {113758},
+  doi     = {https://doi.org/10.1016/j.buildenv.2025.113758}
 }
 
 **🔧 Notes**
@@ -48,8 +48,7 @@ If you use this code, please cite both the paper and this repository:
 | 0 (Neutral)                 | -49 to 22         |
 | 1 (Slightly warm)           | 23 to 93          |
 | 2 (Warm)                    | 94 to 165         |
-
-
+| 3 (Hot)                     | > 165             |
 
 
 <sup>2</sup>The constant indoor condition is defined as:
