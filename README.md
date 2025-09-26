@@ -4,12 +4,9 @@ COMFA-OA is a thermal comfort estimation tool for older adult group. The output 
 
 A optional equavalent temperature output was provided representating the air temperature that reach the same energy budget at a constant meteorological condtion<sup>2</sup>. 
 
-
-This repository provides the code implementation of the COMFA-OA (Outdoor Thermal Comfort Model for Older Adults) as described in:
-[A Novel Thermal Comfort Model for Older Adults–Development and Validation of the COMFA-OA Model]
-Xiaoyu Li, [co-authors]
-Building & Environment, 2025
-DOI: [Xiaoyu Li, Yue Zhang, Huiyan Sang, Chanam Lee, William C Sullivan, Jay E Maddock, Dongying Li, Robert D Brown]
+**About this repository**
+This repository provides the code implementation of the COMFA-OA (Outdoor Thermal Comfort Model for Older Adults), as described in the following paper:
+Li, X., Zhang, Y., Sang, H., Lee, C., Sullivan, W. C., Maddock, J., Li, D., & Brown, R. D. (2025). A novel thermal comfort model for older adults–development and validation of the COMFA-OA model. Building and Environment, 113758. https://doi.org/10.1016/j.buildenv.2025.113758
 
 **🔧 Features**
 - The COMFA-OA model extends the original COMFA framework to account for the specific thermal comfort and heat exposure of older adults (55+) in urban environments.
@@ -53,13 +50,12 @@ DOI: [Xiaoyu Li, Yue Zhang, Huiyan Sang, Chanam Lee, William C Sullivan, Jay E M
 
 <sup>2</sup>The constant indoor condition is defined as:
 a). For meteorological condition
-- Air temperature = 
-- Relative humidity =
-- Mean radiant temperature = 
-- Wind speed =
+- Air temperature = Mean Radiant Temperature
+- Relative humidity = 50%
+- Wind speed = 0.3 m/s (~0.5m/s at 10m)
 b). For human parameters
-- Age (yr)=
-- Heigh (m)=
-- Weight (kg)=
-- Sex (male, female) =
-- Standard metabolism rate (METs, MET) =
+- Age (yr)= 65
+- Heigh (m)= 75kg
+- Weight (kg)= 1.75m
+- Sex (male, female) = Male
+- Standard metabolism rate (METs) = 2.3MET
