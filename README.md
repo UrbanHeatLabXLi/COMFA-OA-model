@@ -25,6 +25,7 @@ Li, X., Zhang, Y., Sang, H., Lee, C., Sullivan, W. C., Maddock, J., Li, D., & Br
 
 
 **🔧 Citation**
+
 @article{Li2025_COMFAOA,
   title   = {A novel thermal comfort model for older adults–development and validation of the COMFA-OA model},
   author  = {Li, Xiaoyu and Zhang, Y. and Sang, H. and Lee, C. and Sullivan, W. C. and Maddock, J. and Brown, R. D.},
