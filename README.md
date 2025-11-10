@@ -38,15 +38,15 @@ Li, X., Zhang, Y., Sang, H., Lee, C., Sullivan, W. C., Maddock, J., Li, D., & Br
 **🔧 Notes**
 
 <sup>1</sup>The COMFA-OA threshold is:
-| Predicted thermal sensation | COMFA-OA (W/m²)   |
-|-----------------------------|-------------------|
-| -3 (Cold)                   | < -192            |
-| -2 (Cool)                   | -192 to -121      |
-| -1 (Slightly cool)          | -120 to -50       |
-| 0 (Neutral)                 | -49 to 22         |
-| 1 (Slightly warm)           | 23 to 93          |
-| 2 (Warm)                    | 94 to 165         |
-| 3 (Hot)                     | > 165             |
+| Predicted thermal sensation | COMFA-OA (W/m²) | Predicted thermal stress |
+| --------------------------- | --------------- | ------------------------ |
+| -3 (Cold)                   | < -192          | High cold stress         |
+| -2 (Cool)                   | -192 to -121    | Medium cold stress       |
+| -1 (Slightly cool)          | -120 to -50     | Slightly cold stress     |
+| 0 (Neutral)                 | -49 to 22       | Thermally neutral        |
+| 1 (Slightly warm)           | 23 to 93        | Slightly heat stress     |
+| 2 (Warm)                    | 94 to 165       | Medium heat stress       |
+| 3 (Hot)                     | > 165           | High heat stress         |
 
 
 <sup>2</sup>The constant indoor condition is defined as:
