@@ -51,7 +51,7 @@ The following variables appear in this repository’s example dataset.
 | Rh | Relative humidity (%) |
 | clo | Clothing insulation (clo) |
 | Tmrt | Mean radiant temperature (°C) |
-| METs | Metabolic rate (met) |
+| METs | Standard metabolic rate (met) |
 | Age | Participant age (years) |
 | sex | Biological sex (1 = male, 2 = female) |
 | Ws | Wind speed (m/s) |
