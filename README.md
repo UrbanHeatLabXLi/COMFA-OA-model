@@ -113,4 +113,5 @@ The following variables appear in this repository’s example dataset.
 - Height = 1.75 m  
 - Weight = 75 kg  
 - Sex = Male  
-- Standard metabolic rate = 2.3 METs  
+- Standard metabolic rate = 2.3 METs
+- Clothes insulation = 0.9 clo  
